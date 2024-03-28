@@ -1,6 +1,6 @@
 {
-  "keys":["tj","jzg"],
-  "version":[0, 1, 3, 265],
+  "keys":["tj","jzg","wheel"],
+  "version":[0, 2, 3, 25],
   "tj":{"dress":"https://github.com/xubowen159357/EM-V-SW-addon/releases/download/tj/tj.zip","name":"土鸡扩充包"},
   "jzg":{"dress":"https://github.com/xubowen159357/EM-V-SW-addon/releases/download/jzg/jzg.zip","name":"金针菇基础"},
   "wheel":{"dress":"https://github.com/xubowen159357/EM-V-SW-addon/releases/download/wheel/wheel.zip","name":"方向盘基础"}
