@@ -1,6 +1,6 @@
 {
   "keys":["TJ","JZG","wheel","DY"],
-  "version":[1, 0, 0, 0],
+  "version":[1, 2, 0, 0],
   "TJ":{"dress":"https://github.com/xubowen159357/EM-V-SW-addon/releases/download/tj/tj.zip","name":"土鸡扩充包","type":"boss"},
   "JZG":{"dress":"https://github.com/xubowen159357/EM-V-SW-addon/releases/download/jzg/jzg.zip","name":"金针菇基础","type":"boss"},
   "wheel":{"dress":"https://github.com/xubowen159357/EM-V-SW-addon/releases/download/wheel/wheel.zip","name":"方向盘基础","type":"player"},
